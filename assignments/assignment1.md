@@ -129,7 +129,7 @@ Event organizers would gain from an organized system that can help event visibil
 * **Birding Collaboration Challenges**
     - Creating small challenges adds a game aspect to birding that can be fun to accomplish with others. These challenges could be something broad like finding 10 different species of ducks or trying to find a particular bird species. These challenges foster teamwork and can bring a good sense of joy/accomplishment when completed.
 * **Birding Trip Organizer**
-    - This feature could involve a built-in availability scheduler and a recommendation of local birding spots (integration with Google Maps? Recommendations from other users of the app, with the reporter being made anonymous for privacy? This is open to flexibilty) within the app. This could be done by using something like Schej and Google Maps combined, but combining these two features to remove the need to use two resources could make things more efficient.
+    - This feature could involve a built-in availability scheduler and a recommendation of local birding spots (integration with Google Maps? Recommendations from other users of the app, with the reporter being made anonymous for privacy? This is open to flexibilty) within the app. This could be done by using something like Schej and Google Maps combined, but combining these two features to remove the need to use two resources could make things more efficient. Birding trips give birders a chance to discuss with each other in person that can further bolster the birding hobby and foster camaraderie.
 
 ### 2. Expanding the birding community
 * **Gamified Birding**

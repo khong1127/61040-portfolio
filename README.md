@@ -9,5 +9,5 @@ Some fun facts about me:
 ![Bubba (orange tabby) and Ella (white / beige)](assets/bubba_and_ella.JPG)
 
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
-[Link to PSet1](assignments/pset1.md)
+* [Link to Assignment 1](assignments/assignment1.md)
+* [Link to PSet1](assignments/pset1.md)

@@ -188,9 +188,9 @@ From there, users can comment on their own posts or on others whose authors they
 
 ## UI Sketches
 
-![Sketches 1](assets/ui_1.jpeg)
+![Sketches 1](../assets/ui_1.jpeg)
 
-![Sketches 2](assets/ui_2.jpeg)
+![Sketches 2](../assets/ui_2.jpeg)
 
 ## User Journey
 

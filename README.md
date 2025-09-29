@@ -12,3 +12,4 @@ Some fun facts about me:
 * [Link to Assignment 1](assignments/assignment1.md)
 * [Link to PSet1](assignments/pset1.md)
 * [Link to PSet2](assignments/pset2.md)
+* [Link to Assignment 2](assignments/assignment2.md)

@@ -59,7 +59,7 @@ Birding is more fun and meaningful when shared, but there lacks a simple way for
 
 ### Concepts
 
-* **concept** PasswordAuthentication (User)
+**Concept: PasswordAuthentication (User)**
 * **purpose** limit access to known users 
 * **principle** after a user registers with a username and a password, they can authenticate with that same username and password and be treated each time as the same user 
 * **state** 
@@ -74,9 +74,8 @@ Birding is more fun and meaningful when shared, but there lacks a simple way for
         * *requires* user of the argument username and password to exist in the set of Users 
         * *effects* returns the corresponding User 
 
---------------------
 
-* **concept** Posting (User, Image)
+**Concept: Posting (User, Image)**
 * **purpose** allow users to publish and share content for others to see
 * **principle** users can create/publish posts that consist of a caption and at least one image. These posts can be edited and deleted by their owners.
 * **state**
@@ -95,9 +94,8 @@ Birding is more fun and meaningful when shared, but there lacks a simple way for
         * *requires* post to exist
         * *effects* edits the caption of the post to be that of the new one
 
---------------------
 
-* **concept** Commenting (User, Post)
+**Concept: Commenting (User, Post)**
 * **purpose** enable discussion around shared posts
 * **principle** users can comment on posts that are visible to them. Comments can be added, deleted, and edited.
 * **state** 
@@ -116,9 +114,7 @@ Birding is more fun and meaningful when shared, but there lacks a simple way for
         * *requires* comment must exist, comment must belong to the user, new_content cannot be empty
         * *effects* edits the comment content to be that of new_content
 
---------------------
-
-* **concept** Friending (User)
+**Concept: Friending (User)**
 * **purpose** allow users to add each other as friends to share information with
 * **principle** users may add and remove each other as friends. These friendships define boundaries regarding who has access to see whose information.
 * **state** 
@@ -137,9 +133,7 @@ Birding is more fun and meaningful when shared, but there lacks a simple way for
         * *requires* to_be_removed_friend to be in user's set of friends
         * *effects* removes to_be_removed_friend from user's set of friends and vice versa
 
---------------------
-
-* **concept** SessionLogging (User, Image, Flag)
+**Concept: SessionLogging (User, Image, Flag)**
 * **purpose** capture photo records of a user's activity during a trip session
 * **principle** users can start sessions during which they can log image entries. Entries for a session cannot be recorded once the session is ended. Recorded entries will remain associated with the session even after it is ended.
 * **state** 
@@ -194,9 +188,9 @@ From there, users can comment on their own posts or on others whose authors they
 
 ## UI Sketches
 
-![Sketches 1](assets/ui_1.JPG)
+![Sketches 1](assets/ui_1.jpeg)
 
-![Sketches 2](assets/ui_2.JPG)
+![Sketches 2](assets/ui_2.jpeg)
 
 ## User Journey
 
